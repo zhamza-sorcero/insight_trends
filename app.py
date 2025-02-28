@@ -8,10 +8,10 @@ import plotly.graph_objects as go
 import streamlit.components.v1 as components
 
 # Page configuration
-st.set_page_config(layout="wide", page_title="Marvel Healthcare Insights Dashboard")
+st.set_page_config(layout="wide", page_title="Insight Trends Dashboard")
 
 # Application title
-st.title("🦸‍♂️ Marvel Healthcare Insights Dashboard")
+st.title("Insight Trends Dashboard")
 st.markdown("Analyzing stakeholder interactions for Vibranium therapeutic assets")
 
 # Load data
